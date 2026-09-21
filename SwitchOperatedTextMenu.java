@@ -19,6 +19,10 @@ case 2:
 System.out.println("You've chosen item #2");
 // do something...
 break;
+case 3:
+System.out.println("You've chosen item #3");
+// do something...
+break;
 case 0: quit = true;
 break;
 default: System.out.println("Invalid choice.");
