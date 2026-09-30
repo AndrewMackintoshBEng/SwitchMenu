@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class SwitchOperatedTextMenu {
 public static void main(String[] args) {
@@ -13,7 +14,8 @@ do { System.out.print("Choose menu item: ");
 menuItem = in.nextInt();
 switch (menuItem) {
 case 1: System.out.println("You've chosen item #1");
-// do something...
+// do something...Craig addtion
+System.put.println("My name is Craig");
 break;
 case 2:
 System.out.println("You've chosen item #2");
